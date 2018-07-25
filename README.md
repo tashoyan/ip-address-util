@@ -1,7 +1,7 @@
 # ip-address-util
 Utils for IP addresses
 
-## Build the library
+## Build the project
 
 Build with Maven:
 ```bash
